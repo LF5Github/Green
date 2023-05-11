@@ -1,13 +1,19 @@
 {
-    "name": "LF5",
+    "name": "GREEN",
     "description": "The Green Theme",
     "authors": [{
-        "name": "GREEN",
+        "name": "LF5",
         "id": "string"
     }],
     "spec": 2,
     "semanticColors": {
         "HEADER_PRIMARY": ["#023000", "#6eff66", "#022100"]
+        "BACKGROUND_SECONDARY_ALT": ["#023000", "#6eff66", "#022100"]
+        "BACKGROUND_ACCENT": ["#3bd130", "#6eff66", "#022100"]
+"BACKGROUND_MOBILE_PRIMARY": ["#0c4d05", "#6eff66", "#022100"]
+"BACKGROUND_TERTIARY": ["#0c4d05", "#6eff66", "#022100"]
+"BACKGROUND_PRIMARY": ["#137308", "#6eff66", "#022100"]
+"TEXT_LINK": ["#58e34b", "#6eff66", "#022100"]
 
     },
     "rawColors": {
