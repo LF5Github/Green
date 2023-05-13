@@ -13,16 +13,11 @@
         "BACKGROUND_TERTIARY": ["#0c4d05"],
         "BACKGROUND_PRIMARY": ["#137308"],
         "TEXT_LINK": ["#58e34b"],
-        "BACKGROUND_MODIFIER_SELECTED": ["#38ba2d"],
+        "BACKGROUND_MODIFIER_SELECTED": ["#2e7028"],
         "BACKGROUND_MODIFIER_ACTIVE": ["#2b9121"],
         "BACKGROUND_MOBILE_SECONDARY": ["#205c15"]
     },
     "rawColors": {
         "PRIMARY_500": "#38a333"
     },
-    "background": {
-        "blur": 55
-        "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9e682e82-76e1-448e-97d0-8cc9f275f37e/df4h5r7-0db61805-880c-41e0-8ea9-afca485b46aa.jpg/v1/fit/w_414,h_311,q_70,strp/a_dandelion_flower_by_tehneon10_df4h5r7-414w.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTYwIiwicGF0aCI6IlwvZlwvOWU2ODJlODItNzZlMS00NDhlLTk3ZDAtOGNjOWYyNzVmMzdlXC9kZjRoNXI3LTBkYjYxODA1LTg4MGMtNDFlMC04ZWE5LWFmY2E0ODViNDZhYS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.qitChG6mCTkYQso_fHXVEFv39Ocixcm0QISs9LB3v7c",
-        "alpha": 0.5
-    }
 }
